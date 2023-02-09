@@ -341,7 +341,7 @@ footer {
   bottom: 0;
   background-color: var(--Red);
   margin-top: 12rem;
-  /* position: fixed; */
+  position: fixed;
 }
 
 .attribution {
