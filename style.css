@@ -14,6 +14,8 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 15px;
   font-weight: 400;
+
+  background-color: var(--White);
 }
 
 @media (min-width: 920px) {
@@ -338,7 +340,8 @@ footer {
   left: 0;
   bottom: 0;
   background-color: var(--Red);
-  position: fixed;
+  margin-top: 12rem;
+  /* position: fixed; */
 }
 
 .attribution {
