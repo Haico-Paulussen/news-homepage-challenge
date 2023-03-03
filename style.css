@@ -90,7 +90,7 @@ body {
 
   body .hero h1 {
     grid-area: header;
-    font-size: 4rem;
+    font-size: 3.75rem;
     line-height: 4.25rem;
   }
 
@@ -203,7 +203,7 @@ nav #logo {
 
 .hero h1 {
   color: var(--Dark-Blue);
-  font-weight: 700;
+  font-weight: 800;
   font-size: 3rem;
   line-height: 3rem;
   margin: 0;
